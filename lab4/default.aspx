@@ -7,6 +7,7 @@
   <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link href="css/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/bootstrap-icons-1.11.1/bootstrap-icons.css" />
     <title>Cambio Climático: del Aprendizaje a la Acción</title>
   </head>
 
@@ -18,6 +19,7 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="default.aspx#ancla-1" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
+                <i class="bi bi-house-door"></i>
                 Inicio
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -35,6 +37,7 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
+                <i class="bi bi-brilliance"></i>
                 ¿Cómo adaptarse?
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -53,6 +56,7 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                 aria-expanded="false">
+                <i class="bi bi-bandaid"></i>
                 ¿Cómo mitigar?
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -70,11 +74,13 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="quiz.aspx" role="button">
+                <i class="bi bi-card-checklist"></i>
                 Evaluacion
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="creditos.aspx" role="button">
+                <i class="bi bi-c-circle"></i>
                 Creditos
               </a>
             </li>
