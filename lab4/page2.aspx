@@ -88,6 +88,28 @@
 </nav>
     <div class="container">
         <h1>Cambio Climático: del Aprendizaje a la Acción</h1>
+        <div id="carouselExample" class="carousel slide">
+              <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img src="imgs/mit1.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                      <img src="imgs/mit2.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                      <img src="imgs/mit3.jpg" class="d-block w-100" alt="...">
+                    </div>
+              </div>
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+        </div>
+
         <a name="ancla-10"></a>
         <h2>¿Cómo mitigar el cambio climático?</h2>
         <a name="ancla-11"></a>
