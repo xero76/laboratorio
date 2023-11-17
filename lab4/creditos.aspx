@@ -99,10 +99,10 @@
             </thead>
             <tbody>
                 <tr>
-                  <th scope="row">1</th>
-                  <td>Mark</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
+                  <th scope="row">NM100322</th>
+                  <td>Carlos Daniel</td>
+                  <td>Nerio Martínez</td>
+                  <td>Ingenieria en Ciencias de la Computacion</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
@@ -125,6 +125,13 @@
               </tbody>
             </table>
     </div>
+    <footer>
+       <div class="card text-white bg-dark ">
+             <div class="card-header">
+               <p>Universidad Francisco Gavidia | 2023 Trabajo de investigación.</p>
+             </div>
+       </div>
+    </footer>
     <script src="js/bootstrap.bundle.js"></script>
 </body>
 </html>

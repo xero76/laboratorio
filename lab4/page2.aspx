@@ -99,6 +99,13 @@
         <a name="ancla-14"></a>
         <h2>¿Qué pueden hacer las empresas y los ciudadanos para reducir las emisiones?</h2>
     </div>
+<footer>
+   <div class="card text-white bg-dark ">
+         <div class="card-header">
+           <p>Universidad Francisco Gavidia | 2023 Trabajo de investigación.</p>
+         </div>
+   </div>
+</footer>
     <script src="js/bootstrap.bundle.js"></script>
 </body>
 </html>

@@ -544,15 +544,14 @@
             Project)</p>
         </div>
       </div>
-      <div class="card text-white bg-dark ">
-        <div class="card-header">
-          Universidad Francisco Gavidia | 2023
-        </div>
-        <div class="card-body">
-          <p class="card-text">Trabajo de investigación.</p>
-        </div>
-      </div>
     </div>
+     <footer>
+        <div class="card text-white bg-dark ">
+              <div class="card-header">
+                <p>Universidad Francisco Gavidia | 2023 Trabajo de investigación.</p>
+              </div>
+        </div>
+     </footer>
     <script src="js/bootstrap.bundle.js"></script>
   </body>
 
