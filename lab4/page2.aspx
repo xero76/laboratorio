@@ -112,6 +112,11 @@
 
         <a name="ancla-10"></a>
         <h2>¿Cómo mitigar el cambio climático?</h2>
+        <div class="container">
+            <div class="row">
+                <video autoplay="autoplay" controls="controls" controlslist="nodownload" data-video="0" muted="muted" preload="auto" title="Animación acerca de las emisiones netas cero"><source src="https://www.un.org/sites/un2.un.org/files/emisiones-netas-cero-video-espanol.webm" type="video/webm"></video>
+            </div>
+        </div>
         <a name="ancla-11"></a>
         <h2>¿Por qué necesitamos mitigarlo?</h2>
         <a name="ancla-12"></a>
