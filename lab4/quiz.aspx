@@ -10,7 +10,7 @@
     <title>Cambio Climático: del Aprendizaje a la Acción</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -39,7 +39,7 @@
             ¿Cómo adaptarse?
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="page1.aspx#ancla-6">¿Por qué necesitamos adaptarnos?</a>
+            <li><a class="dropdown-item" href="page1.aspx#ancla-6">¿Como adaptarse al cambio climatico?</a>
             </li>
             <li><a class="dropdown-item" href="page1.aspx#ancla-7">¿Cuáles son algunas de las formas de
                 adaptarse?</a>
@@ -58,16 +58,12 @@
             ¿Cómo mitigar?
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Por qué necesitamos mitigarlo?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-10">Mitigacion o Reduccion de Emisiones</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Cómo reducir las emisiones en
-                sectores clave?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Que Indica El "Cero Neto"?</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-13">¿Qué pueden hacer los gobiernos?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Cómo reducir las emisiones en sectores clave?</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-14">¿Qué pueden hacer las empresas y los
-                ciudadanos para
-                reducir las emisiones?</a></li>
           </ul>
         </li>
         <li class="nav-item">
