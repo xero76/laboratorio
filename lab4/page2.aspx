@@ -60,9 +60,9 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="page2.aspx#ancla-10">Mitigacion o Reduccion de Emisiones</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Que Indica El "Cero Neto"?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Cómo reducir las emisiones en sectores clave?</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Cómo reducir las emisiones en sectores clave?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Que Indica El "Cero Neto"?</a>
             </li>
           </ul>
         </li>
@@ -105,7 +105,6 @@
                 <span class="visually-hidden">Next</span>
               </button>
         </div>
-
         <a name="ancla-10"></a>
         <h2>Mitigación o reducción de emisiones de Gases de Efecto Invernadero</h2>
         <div class="row">
@@ -113,91 +112,24 @@
             <p>Debido a la diversidad y complejidad de cada país y región, así como las circunstancias que obstaculizan el desarrollo y la implantación de tecnologías y prácticas de mitigación, se requiere implementar medidas combinadas y adaptadas a las particularidades nacionales, regionales y locales.</p>
             <p>Los sectores en los que se pueden realizar acciones de mitigación son muchos, entre ellos se destacan el transporte, la industria, el sector agropecuario, el manejo de residuos domiciliarios e industriales, y el energético.</p>
         </div>
-        
         <a name="ancla-11"></a>
-        <h2>¿Qué indica el "cero neto"?</h2>
-            <div class="row">
-                <p>Dicho de forma sencilla, el "cero neto" signifa recortar las emisiones de gases de efecto invernadero hasta dejarlas lo más cerca posible a las emisiones nulas, con algunas emisiones residuales que sean reabsorbidas en la atmósfera, por el océano y los bosques, por ejemplo.</p>
-                <video autoplay="autoplay" controls="controls" controlslist="nodownload" data-video="0" muted="muted" preload="auto" title="Animación acerca de las emisiones netas cero"><source src="https://www.un.org/sites/un2.un.org/files/emisiones-netas-cero-video-espanol.webm" type="video/webm"></video>
-                <div class="col-6">
-                    <div class="accordion" id="accordionPanelsStayOpenExample">
-                        <div class="accordion-item">
-                          <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                            ¿Por qué es tan importante el "cero neto"?
-                            </button>
-                          </h2>
-                          <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
-                            <div class="accordion-body">
-                                La ciencia ha demostrado claramente que a fin de evitar los peores efectos del cambio climático y para conservar un planeta habitable, el aumento global de la temperatura necesita limitarse a no más de 1,5 °C por encima de los niveles preindustriales. En la actualidad, la Tierra ya tiene un calentamiento superior al 1,1 °C en comparación a finales del siglo XIX, y las emisiones continúan yendo al alza. Para mantener el calentamiento global por debajo de 1,5 °C, tal como se exige en el Acuerdo de París, es necesario que las emisiones se reduzcan alrededor del 45 % para 2030 y que se alcance el cero neto hacia 2050.
-                            </div>
-                          </div>
-                        </div>
-                        <div class="accordion-item">
-                          <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                            ¿Cómo puede alcanzarse el cero neto?
-                            </button>
-                          </h2>
-                          <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
-                            <div class="accordion-body">
-                                La transición a un mundo con cero emisiones supone uno de los mayores retos a los que se ha enfrentado la humanidad. Nos exige, ni más ni menos, que se produzca una completa transformación del modo de producir, consumir y trasladarnos. El sector energético constituye la fuente de cerca de tres cuartos de las emisiones de gases de efecto invernadero en la actualidad y encierra la clave para evitar los peores efectos del cambio climático. La sustitución de generadores de contaminación, como la producción de energía mediante el carbón, el petróleo o el gas, por fuentes de energía renovables, como la energía solar o eólica, reducirían drásticamente las emisiones de carbono.
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                </div>
-                <div class="col-6">
-                    <div class="accordion" id="accordionPanelsStayOpenExample">
-                        <div class="accordion-item">
-                          <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="true" aria-controls="panelsStayOpen-collapseThree">
-                            ¿Por qué es tan importante el "cero neto"?
-                            </button>
-                          </h2>
-                          <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show">
-                            <div class="accordion-body">
-                                La ciencia ha demostrado claramente que a fin de evitar los peores efectos del cambio climático y para conservar un planeta habitable, el aumento global de la temperatura necesita limitarse a no más de 1,5 °C por encima de los niveles preindustriales. En la actualidad, la Tierra ya tiene un calentamiento superior al 1,1 °C en comparación a finales del siglo XIX, y las emisiones continúan yendo al alza. Para mantener el calentamiento global por debajo de 1,5 °C, tal como se exige en el Acuerdo de París, es necesario que las emisiones se reduzcan alrededor del 45 % para 2030 y que se alcance el cero neto hacia 2050.
-                            </div>
-                          </div>
-                        </div>
-                        <div class="accordion-item">
-                          <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
-                            ¿Cómo puede alcanzarse el cero neto?
-                            </button>
-                          </h2>
-                          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse">
-                            <div class="accordion-body">
-                                La transición a un mundo con cero emisiones supone uno de los mayores retos a los que se ha enfrentado la humanidad. Nos exige, ni más ni menos, que se produzca una completa transformación del modo de producir, consumir y trasladarnos. El sector energético constituye la fuente de cerca de tres cuartos de las emisiones de gases de efecto invernadero en la actualidad y encierra la clave para evitar los peores efectos del cambio climático. La sustitución de generadores de contaminación, como la producción de energía mediante el carbón, el petróleo o el gas, por fuentes de energía renovables, como la energía solar o eólica, reducirían drásticamente las emisiones de carbono.
-                            </div>
-                          </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <p class="text-center"><strong>¿Estamos en la senda correcta para alcanzar el cero neto en 2050?</strong></p>
-                    <p>No, los compromisos adquiridos por los gobiernos hasta la fecha se han quedado cortos. Los planes nacionales por el clima actuales, y para las 193 partes adheridas al Acuerdo de París, nos llevarían a un aumento considerable de casi el 11 % en las emisiones globales de gases de efecto invernadero para 2030, en comparación con los niveles de 2010. Lograr el cero neto hace necesario que los gobiernos, en primer lugar, los mayores emisores, refuercen significativamente sus contribuciones determinadas a nivel nacional (CDN) y que emprendan fases enérgicas e inmediatas para la reducción de las emisiones actuales. El Pacto de Glasgow para el Clima hizo un llamamiento a todos los países para que revisaran y reforzaran los objetivos de 2030 dentro de sus CDN y para finales de 2022, pero sólo se presentaron 24 planes climáticos nuevos o actualizados antes de septiembre de 2022.</p>
-                </div>
-            </div>
-        <a name="ancla-12"></a>
         <h2>¿Cómo reducir las emisiones en sectores clave?</h2>
         <div class="row">
             <div class="col-12"><img src="imgs/reno.jpg" class="img-fluid rounded" alt=""></div>
             <div class="container"><br/></div>
         </div>
-        <div class="row">
+        <div class="row ">
             <div class="col-6">
                 <p><strong>Transporte</strong></p>
                 <p>Este sector es uno de los grandes emisores de GEI a través del uso de combustibles fósiles. Medidas efectivas para la mitigación podrían ser una mayor utilización del transporte público, el reemplazo de los combustibles líquidos por el gas natural comprimido, el uso de bicicletas, como así también la implementación de reglas de organización del tránsito y de mejoras técnicas en los vehículos. Muchas de estas medidas no sólo contribuyen a disminuir las emisiones de gases con efecto invernadero sino que producen también menores impactos en salud.</p>
             </div>
             <div class="col-6 text-center">       
-                <img src="imgs/reno.jpg" class="img-fluid rounded" alt="">
+                <img src="imgs/tran.jpg" class="img-fluid rounded" style="width:500px" alt="">
             </div>
          </div>
         <div class="row">
-            <div class="col-6">       
-                <img src="imgs/reno.jpg" class="img-fluid rounded" alt="">
+            <div class="col-6 text-center">       
+                <img src="imgs/indu.jpg" class="img-fluid rounded" style="width:400px" alt="">
             </div>
             <div class="col-6">
                 <p><strong>Industria</strong></p>
@@ -210,16 +142,89 @@
                 <p>El sector agropecuario es un importante emisor de GEI, tanto en la ganadería (por el contenido de metano en los gases de fermentación entérica), como en las diversas actividades de la agricultura. Es posible lograr una disminución notable de las emisiones de gases de efecto invernadero en la actividad agrícola mediante el cambio en los hábitos de labranza o la reutilización de los subproductos y desperdicios de la cosecha. Una adecuada gestión del riego y un uso más eficiente de fertilizantes, como así también el empleo de mejores tecnologías por parte de los agricultores, son opciones que se deben tener en cuenta si se quiere lograr una reducción en las emisiones de GEI.</p>
             </div>
             <div class="col-6 text-center">       
-                <img src="imgs/reno.jpg" class="img-fluid rounded" alt="">
+                <img src="imgs/agro.jpg" class="img-fluid rounded" style="width:400px" alt="">
             </div>
         </div>
         <div class="row">
-            <div class="col-6">       
-                <img src="imgs/reno.jpg" class="img-fluid rounded" alt="">
+            <div class="col-6 text-center">       
+                <img src="imgs/reci.jpg" class="img-fluid rounded" style="width:400px" alt="">
             </div>
             <div class="col-6">
                 <p><strong>Gestión de los residuos domiciliarios e industriales</strong></p>
                 <p>Los rellenos sanitarios utilizados en centros urbanos para la disposición de los residuos domiciliarios son también grandes fuentes de GEI, principalmente metano. Este gas puede ser recolectado por medio de tuberías y utilizado para la generación de energía eléctrica o de calor. También puede optarse por su combustión directa, liberando dióxido de carbono cuyo potencial de efecto invernadero es mucho menor que el de este gas.</p>
+            </div>
+        </div>
+    <a name="ancla-12"></a>
+    <h2>¿Qué indica el "cero neto"?</h2>
+    <div class="row">
+        <p>Dicho de forma sencilla, el "cero neto" signifa recortar las emisiones de gases de efecto invernadero hasta dejarlas lo más cerca posible a las emisiones nulas, con algunas emisiones residuales que sean reabsorbidas en la atmósfera, por el océano y los bosques, por ejemplo.</p>
+        <video autoplay="autoplay" controls="controls" controlslist="nodownload" data-video="0" muted="muted" preload="auto" title="Animación acerca de las emisiones netas cero"><source src="https://www.un.org/sites/un2.un.org/files/emisiones-netas-cero-video-espanol.webm" type="video/webm"></video>
+        <div class="col-6">
+            <div class="accordion" id="accordionPanelsStayOpenExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                    <strong>¿Por qué es tan importante el "cero neto"?</strong>
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show text-justify">
+                    <div class="accordion-body">
+                        <p>La ciencia ha demostrado claramente que a fin de evitar los peores efectos del cambio climático y para conservar un planeta habitable, el aumento global de la temperatura necesita limitarse a no más de 1,5 °C por encima de los niveles preindustriales. En la actualidad, la Tierra ya tiene un calentamiento superior al 1,1 °C en comparación a finales del siglo XIX, y las emisiones continúan yendo al alza. Para mantener el calentamiento global por debajo de 1,5 °C, tal como se exige en el Acuerdo de París, es necesario que las emisiones se reduzcan alrededor del 45 % para 2030 y que se alcance el cero neto hacia 2050.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                    <strong>¿Cómo puede alcanzarse el cero neto?</strong>
+                  </h2>
+                  <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse text-justify">
+                    <div class="accordion-body">
+                        <p>La transición a un mundo con cero emisiones supone uno de los mayores retos a los que se ha enfrentado la humanidad. Nos exige, ni más ni menos, que se produzca una completa transformación del modo de producir, consumir y trasladarnos. El sector energético constituye la fuente de cerca de tres cuartos de las emisiones de gases de efecto invernadero en la actualidad y encierra la clave para evitar los peores efectos del cambio climático. La sustitución de generadores de contaminación, como la producción de energía mediante el carbón, el petróleo o el gas, por fuentes de energía renovables, como la energía solar o eólica, reducirían drásticamente las emisiones de carbono.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="col-6">
+            <div class="accordion" id="accordionPanelsStayOpenExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="true" aria-controls="panelsStayOpen-collapseThree">
+                    <strong>¿Existe un esfuerzo conjunto para alcanzar el cero neto?</strong>
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse show text-justify">
+                    <div class="accordion-body">
+                        <p>Sí, una coalición creciente de países, ciudades, industrias y otras instituciones se comprometen a alcanzar esas emisiones cero netas. Más de 70 países, incluidos los grandes contaminadores, como China, Estados Unidos y la Unión Europea, han establecido el objetivo del cero neto que abarque alrededor del 76 % de las emisiones globales. Más de 3000 empresas e instituciones financieras colaboran con la iniciativa Objetivos Basados en la Ciencia para reducir sus emisiones, y más de 1000 ciudades, con más de 1000 instituciones educativas, y con más de 400 entidades financieras, se han unido en la campaña "Race to Zero".</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+                    <strong>¿Cómo aseguramos que los compromisos se conviertan en acciones?</strong>
+                    </button>
+                  </h2>
+                  <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse text-justify">
+                    <div class="accordion-body">
+                        <p>El crecimiento de los compromisos de emisiones netas cero ha ido acompañado de una proliferación de criterios con diferentes niveles de solidez. Con el fin de desarrollar normas más sólidas y claras para los compromisos de emisiones netas cero por parte de entidades no estatales como empresas, inversores, ciudades y regiones, y acelerar su aplicación, el secretario general de la ONU, António Guterres, creó en marzo de 2022 un Grupo de Expertos de Alto Nivel sobre los compromisos de cero emisiones netas de las entidades no estatales. El Grupo de Expertos presentó sus recomendaciones durante la COP27 el 8 de noviembre de 2022.</p>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <p class="text-center"><strong>¿Estamos en la senda correcta para alcanzar el cero neto en 2050?</strong></p>
+            <p>No, los compromisos adquiridos por los gobiernos hasta la fecha se han quedado cortos. Los planes nacionales por el clima actuales, y para las 193 partes adheridas al Acuerdo de París, nos llevarían a un aumento considerable de casi el 11 % en las emisiones globales de gases de efecto invernadero para 2030, en comparación con los niveles de 2010. Lograr el cero neto hace necesario que los gobiernos, en primer lugar, los mayores emisores, refuercen significativamente sus contribuciones determinadas a nivel nacional (CDN) y que emprendan fases enérgicas e inmediatas para la reducción de las emisiones actuales. El Pacto de Glasgow para el Clima hizo un llamamiento a todos los países para que revisaran y reforzaran los objetivos de 2030 dentro de sus CDN y para finales de 2022, pero sólo se presentaron 24 planes climáticos nuevos o actualizados antes de septiembre de 2022.</p>
+        </div>
+    </div>
+        <div class="row text-center">
+            <div class="col-6">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/5yKxKMv05HY?si=_lFmBlTxdnXoY84E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <div class="col-6">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/nLYXr8hpYtU?si=NZKamQSgr9EM8ZAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
     </div>

@@ -10,7 +10,7 @@
     <title>Cambio Climático: del Aprendizaje a la Acción</title>
 </head>
 <body>
-     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -60,9 +60,9 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="page2.aspx#ancla-10">Mitigacion o Reduccion de Emisiones</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Que Indica El "Cero Neto"?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-11">¿Cómo reducir las emisiones en sectores clave?</a>
             </li>
-            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Cómo reducir las emisiones en sectores clave?</a>
+            <li><a class="dropdown-item" href="page2.aspx#ancla-12">¿Que Indica El "Cero Neto"?</a>
             </li>
           </ul>
         </li>
