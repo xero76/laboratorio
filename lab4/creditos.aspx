@@ -100,6 +100,12 @@
                   <td>Nerio Martínez</td>
                   <td>Ingenieria en Ciencias de la Computacion</td>
                 </tr>
+                  <tr>
+                  <th scope="row">NM100322</th>
+                  <td>Darvin Antonio</td> 
+                  <td>Martínez Hernández</td>
+                  <td>Ingenieria en Ciencias de la Computacion</td>
+                </tr>
                 <tr>
                   <th scope="row">RM101712</th>
                   <td>Moises Alberto</td>
