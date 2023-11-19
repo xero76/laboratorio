@@ -26,7 +26,14 @@ namespace lab4
             else { 
                 iAnswers++; 
             }
-
+            if (q2.SelectedValue == "3")
+            {
+                cAnswers++;
+            }
+            else
+            {
+                iAnswers++;
+            }
             // Agrega bloques similares para las otras preguntas
 
             // Muestra el resultado

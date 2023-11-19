@@ -107,7 +107,14 @@
                 </tr>
                 <tr>
                   <th scope="row">2.-</th>
-                  <td>pregunta 2</td>
+                     <td>¿Qué indica el "cero neto"?
+                      <br/>
+                       <asp:RadioButtonList ID="q2" runat="server">
+                           <asp:ListItem Value="1">Emisiones de gases de efecto invernadero que incrementen a cada año.</asp:ListItem>
+                           <asp:ListItem Value="2">Utilizacion de Cero combustible fosil.</asp:ListItem>
+                           <asp:ListItem Value="3">Emisiones de gases de efecto invernadero hasta dejarlas lo más cerca posible a las emisiones nulas.</asp:ListItem>
+                       </asp:RadioButtonList>
+                    </td>
                 </tr>
                 <tr>
                   <th scope="row">3.-</th>
