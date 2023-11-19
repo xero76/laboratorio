@@ -110,7 +110,7 @@
                   <th scope="row">RM101712</th>
                   <td>Moises Alberto</td>
                   <td>Rivera Mendoza</td>
-                  <td>Ingenieria en Ciencias de la Computacion</td>
+                  <td>Técnico en Sistemas de Computacion</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
