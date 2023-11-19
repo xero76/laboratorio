@@ -101,10 +101,10 @@
                   <td>Ingenieria en Ciencias de la Computacion</td>
                 </tr>
                 <tr>
-                  <th scope="row">2</th>
-                  <td>Jacob</td>
-                  <td>Thornton</td>
-                  <td>tijh</td>
+                  <th scope="row">RM101712</th>
+                  <td>Moises Alberto</td>
+                  <td>Rivera Mendoza</td>
+                  <td>Ingenieria en Ciencias de la Computacion</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>

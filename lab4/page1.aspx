@@ -84,17 +84,101 @@
 </nav>
     <div class="container">
         <h1>Cambio Climático: del Aprendizaje a la Acción</h1>
+
+                <div id="carouselExample" class="carousel slide">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="imgs/adap1.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="imgs/adap2.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="imgs/adap3.jpg" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+           
     <a name="ancla-5"></a>
-    <h2>¿Cómo adaptarse al cambio climático?</h2>
-    <a name="ancla-6"></a>
-    <h2>¿Por qué necesitamos adaptarnos?</h2>
+        <h2>¿Cómo adaptarse al cambio climático?</h2>
+        <div class="row">
+            <div class="col-3">
+            </div>
+            <div class="col-5">
+                <img src="imgs/Foto1.jpg" class="img-fluid" />
+            </div>
+
+            <div class="row">
+                <br />
+                <p>La adaptación al cambio climático es el proceso de ajuste al clima real o previsto y sus efectos, con el fin de moderar el daño o aprovechar las oportunidades beneficiosas. </p>
+
+                <p><strong>Impactos en diversos sectores económicos</strong></p>
+                <p>Muchos sectores económicos clave se ven afectados por cambios a largo plazo en la temperatura, las precipitaciones, la elevación del nivel del mar y los fenómenos extremos, todos ellos efectos del cambio climático. Veamos algunos de estos sectores.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-8">
+                    <p><strong>Energía</strong></p>
+                    <p>Por ejemplo, la energía se utiliza para mantener los edificios calientes en invierno y frescos en verano. Por lo tanto, los cambios de temperatura afectarían a la demanda de energía. El cambio climático también afecta al suministro de energía a través de la refrigeración de las centrales térmicas, de los recursos eólicos, solares e hídricos para la energía, y de la infraestructura de transporte y transmisión.</p>
+                </div>
+                <div class="col-3">
+                    <img src="imgs/Foto2.jpg" class="img-fluid" />
+                </div>
+            </div>
+            <div class="row ">
+                <div class="col-3">
+                    <img src="imgs/Foto3.jpg" class="img-fluid" />
+                </div>
+                <div class="col-8">
+                    <p><strong>Agua</strong></p>
+                    <p>La demanda de agua aumenta con el aumento de la temperatura, pero disminuye con el aumento de las concentraciones de dióxido de carbono (CO2). El suministro de agua depende de los patrones de precipitación y de la temperatura, y la infraestructura hidráulica es vulnerable a las condiciones meteorológicas extremas.</p>
+                </div>
+            </div>
+
+
+
+        </div>
+
+
     <a name="ancla-7"></a>
     <h2>¿Cuáles son algunas de las formas de adaptarse?</h2>
     <a name="ancla-8"></a>
+        <div class="row ">
+        
+        
+        </div>
+
+
     <h2>¿Cómo es la adaptación en la práctica?</h2>
     <a name="ancla-9"></a>
+        <div class="row ">
+        
+        
+        </div>
+
+
     <h2>¿Quién es responsable de la adaptación al cambio climático?</h2>
+        <a name="ancla-10"></a>
+        <div class="row ">
+        
+        
+        </div>
+
+
     </div>
+
+
+
+
 <footer>
    <div class="card text-white bg-dark ">
          <div class="card-header">
