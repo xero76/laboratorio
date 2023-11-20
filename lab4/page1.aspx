@@ -225,21 +225,225 @@
         <a name="ancla-7"></a>
         <h2>¿Cuáles son algunas de las formas de adaptarse?</h2>
         <div class="row ">
+
+            <p><strong>1. Mitigación del riesgo o Adaptación planificada</strong></p>
+            <p>
+                Este enfoque se aplica cuando el riesgo climático es de alta frecuencia y de pérdida baja o media. 
+                En Tuvalu, el riesgo climático que se explora es la disminución del agua dulce. Para hacer frente 
+                a los riesgos climáticos, Tulavu elaboró su Programa de Acción Nacional de Adaptación.
+            </p>
+
+            <p><strong>2. Transferencia del riesgo o adaptación a las contingencias</strong></p>
+            <p>
+                Este enfoque se aplica cuando el riesgo climático es de baja frecuencia y de pérdida media a alta. 
+                Algunos eventos extremos pueden entrar en esta categoría, como las sequías de larga duración. Los 
+                mecanismos o enfoques de mancomunación de riesgos para gestionar las corrientes migratorias 
+                podrían abordar este riesgo.
+            </p>
+            <p><strong>3. Afrontar o aceptar la pérdida</strong></p>
+            <p>Este enfoque se aplica cuando el peligro es devastador pero es muy poco probable que ocurra.</p>
+
+            <p>
+                Los eventos extremos severos pueden caer en esta categoría, como los ciclones sin precedentes. 
+                En estos casos se adoptan medidas de apoyo de socorro y humanitarias.
+            </p>
+            <div class="row ">
+                <div class="col-8">
+                    <p><strong>Ejemplo 1: Vietnam</strong></p>
+                    <p>
+                        Vietnam ha hecho considerables progresos en los últimos años para aumentar la colaboración 
+                entre los organismos estatales encargados de la reducción de los riesgos de desastre y la 
+                adaptación al clima mediante la planificación y ejecución de iniciativas conjuntas. Cada 
+                organismo estatal mantiene mandatos, funciones y responsabilidades distintas, de conformidad 
+                con el Plan Nacional de Adaptación de Vietnam (SEI, 2014). La migración es un enfoque de 
+                adaptación de contingencia. Una alternativa para ese riesgo climático sería la puesta en 
+                común de recursos y fondos a los que se pueda acceder cuando se produzca un peligro de baja 
+                frecuencia, por ejemplo, una corriente de aire o una inundación.
+                    </p>
+                </div>
+                <div class="col-3">
+                    .
+                    <img src="imgs/Foto9.jpg" class="img-fluid" />
+                </div>
+            </div>
+
         </div>
 
         <a name="ancla-8"></a>
         <h2>¿Cómo es la adaptación en la práctica?</h2>
-
         <div class="row ">
+            <div class="col-6">
+                <p><strong>Vídeo: La adaptación en la práctica - el caso de Nepal</strong></p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/fm7bMBSqdxQ"
+                    title="NAP-Ag MOOC Week 1 Part 1 - Introduction to National Adaptation Plans" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
+                        web-share"
+                    allowfullscreen></iframe>
+            </div>
+            <div class="col-6">
+                <p><strong>Evaluación de la vulnerabilidad al cambio climático</strong></p>
+                <p>
+                    Evaluar cuán vulnerables son las personas o los bienes al cambio climático es el primer paso 
+                     para definir una estrategia de adaptación. Los gobiernos disponen de muchos instrumentos y 
+                     recursos para realizar evaluaciones y formular medidas.
+                </p>
+
+                <p><strong>Proceso de Adaptación: Evaluaciones</strong></p>
+                <p>
+                    El Gobierno de Nepal ha reconocido que la adaptación al cambio climático es fundamental 
+                     para salvaguardar las comunidades y los ecosistemas vulnerables al clima. A fin de reducir la 
+                     vulnerabilidad de los sectores sensibles al clima a los efectos del cambio climático, una de las
+                     primeras medidas que Nepal tuvo que adoptar fue el análisis de las necesidades de adaptación.
+                </p>
+            </div>
+
         </div>
+        <div class="row ">
+            <div>
+                <div class="row ">
+                    <div class="col-8">
+                        <p><strong>Paso 1: Identificar los sistemas en riesgo</strong></p>
+
+                        <p>
+                            ¿Qué sistemas son importantes para el desarrollo social, económico y ambiental? Éstas pueden ser la 
+                nutrición, la inclusión social, la silvicultura, la salud pública u otras, dependiendo del contexto 
+                nacional.
+                        </p>
+                    </div>
+
+                    <div class="col-3">
+                        <img src="imgs/Foto10.jpg" class="img-fluid" />
+                    </div>
+                </div>
+
+                <div class="row ">
+                    <div class="col-3">
+                        <img src="imgs/Foto11.jpg" class="img-fluid" />
+                    </div>
+
+
+                    <div class="col-8">
+                        <p><strong>Paso 2: Identificar los peligros climáticos</strong></p>
+
+                        <p>
+                            ¿Qué peligros afectan a estos sistemas? Por ejemplo, la silvicultura estará expuesta a los incendios 
+                forestales y a la propagación de especies invasoras, mientras que los sistemas de salud pública se 
+                verán afectados por las temperaturas extremas, los brotes de enfermedades y la contaminación.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row ">
+                    <div class="col-8">
+                        <p><strong>Paso 3: Definir los indicadores de exposición</strong></p>
+
+                        <p>
+                            ¿Cuáles son los activos expuestos de estos sistemas? En lo que respecta a la salud pública, podrían
+                             ser la población, los hospitales y los laboratorios, y en lo que respecta a la seguridad alimentaria, 
+                                podrían ser las poblaciones agrícolas y la superficie de tierras agrícolas
+                        </p>
+                    </div>
+                     <div class="col-3">
+                        <img src="imgs/Foto12.jpg" class="img-fluid" />
+                    </div>
+
+
+                </div>
+                <div class="row ">
+                       <div class="col-3">
+                        <img src="imgs/Foto13.jpg" class="img-fluid" />
+                    </div>
+                    <div class="col-8">
+                        <p><strong>Paso 4: Definir los indicadores de vulnerabilidad</strong></p>
+
+                        <p>
+                            ¿Cómo de sensibles son estos activos? ¿Existen mecanismos de protección? Por ejemplo, ¿hay una gran disparidad de
+                         ingresos entre los agricultores y son los cultivos son resistentes a los peligros?
+                        </p>
+                    </div>
+                </div>
+
+                <div class="row ">
+                    <div class="col-7">
+                        <p><strong>Lista de opciones de adaptación</strong></p>
+
+                        <p>Todos estos elementos de evaluación proporcionarán orientación para determinar las opciones de adaptación a mediano y largo plazo.</p>
+
+                         <p><strong>Formulación de opciones de adaptación</strong></p>
+                <p>Después de llevar a cabo una evaluación de la vulnerabilidad, es importante identificar las posibles opciones de adaptación. Se dispone de diversas opciones, que van desde las actividades tradicionales de desarrollo hasta medidas de adaptación más específicas.</p>
+                      
+                    </div>
+
+                    <div class="col-4">
+                        <img src="imgs/Foto14.jpg" class="img-fluid" />
+                    </div>
+                </div>
+
+                <div class="row ">
+                      <p><strong>Tierras de cultivo: ejemplo de peligros y opciones de adaptación</strong></p>
+                        <p>continuación, se enumeran los principales peligros climáticos para las tierras de cultivo. Para cada peligro, es posible una gama de opciones de adaptación. </p>
+                    <div class="col-3">
+                    </div>
+                    <div class="col-5">
+                        <img src="imgs/Foto15.jpg" class="img-fluid" />
+                    </div>
+                </div>
+                <p><strong>1  Condiciones climáticas cambiantes y variabilidad climática y estacionalidad</strong></p>
+                <ul>
+                    <li>Participar en los planes de vigilancia cuando estén disponibles. </li>
+                    <li>Optimizar los calendarios de plantación (por ejemplo, los datos de siembra), incluso para las materias primas y el forraje. </li>
+                    <li>Plantar diferentes variedades, especies y cultivares. </li>
+                    <li>Usar cultivares de corta duración. </li>
+                    <li>Utilizar variedades de especies capaces de producir bajo diferentes extremos ambientales o aquellas con tolerancias ambientales más amplias. Se debe considerar el uso de cultivos y razas actualmente descuidados o raros. </li>
+                    <li>Practicar la siembra temprana, lo que puede ser posible gracias a las mejoras en la maquinaria de siembra o a la adopción de técnicas de siembra en seco. </li>
+                    <li>Aumentar la diversidad de variedades o cultivos para protegerse contra el riesgo de fracaso de los cultivos individuales. </li>
+                    <li>Practica el cultivo intercalado. </li>
+                    <li>Utilizar sistemas integrados que incluyan la ganadería y/o la acuicultura para mejorar la resistencia. </li>
+                    <li>Cambiar las prácticas post cosecha (por ejemplo, el tiempo necesario para el secado de los granos y los procedimientos de almacenamiento post cosecha). </li>
+                    <li>Considerar el efecto de los nuevos patrones climáticos en la salud y el bienestar de los trabajadores agrícolas.</li>
+
+                </ul>
+                <p><strong>2  Cambio en las precipitaciones y la disponibilidad de agua</strong></p>
+                <ul>
+
+                    <li>Participar en los planes de vigilancia cuando estén disponibles. </li>
+                    <li>Cambiar las prácticas de irrigación. </li>
+                    <li>Adoptar medidas mejoradas de conservación del agua. </li>
+                    <li>Utilizar los recursos hídricos y las aguas residuales marginales. </li>
+                    <li>Aprovechar más la recolección y captura de agua de lluvia. </li>
+                    <li>En algunas zonas, el aumento de las precipitaciones puede permitir la agricultura de regadío o de secano en lugares donde antes no era posible. </li>
+                    <li>Alterar las prácticas agronómicas.</li>
+                    <li>Reducir la labranza para disminuir la pérdida de agua e incorporar abonos y compost, y cultivos de cobertura vegetal para aumentar la materia orgánica del suelo y mejorar la retención de agua.</li>
+
+                </ul>
+                <p><strong>3  Aumento de la frecuencia de las sequías, las tormentas, las inundaciones, los incendios forestales y la subida del nivel del mar</strong></p>
+                <ul>
+                    <li>Participar en los planes de vigilancia cuando estén disponibles. </li>
+                    <li>Adoptar medidas generales de conservación del agua, en particular durante la sequía.</li> 
+                    <li>Utilizar variedades resistentes a las inundaciones, a la sequía y/o a la salinidad. </li>
+                    <li>Mejorar el drenaje, aumentar la cantidad de materia orgánica en el suelo y fortalecer el diseño de la granja para evitar la pérdida de suelo y las hondonadas. </li>
+                    <li>Considere, cuando sea posible, aumentar la cobertura del seguro contra eventos extremos.</li>
+                </ul>
+
+                <p><strong>4 Plagas, malas hierbas y enfermedades, y la interrupción de los servicios de los ecosistemas polinizadores</strong></p>
+                <ul>
+                    <li>Participar en planes de vigilancia y prevención de riesgos cuando estén disponibles. </li>
+                    <li>Utilizar la experiencia para hacer frente a las plagas y enfermedades existentes. </li>
+                    <li>Aprovechar la regulación natural y fortalecer los servicios de los ecosistemas.</li>
+                </ul>
+            </div>
+        </div>
+
 
         <a name="ancla-9"></a>
         <h2>¿Quién es responsable de la adaptación al cambio climático?</h2>
-
         <div class="row ">
+
+
+
+
+
         </div>
-
-
     </div>
 
 
