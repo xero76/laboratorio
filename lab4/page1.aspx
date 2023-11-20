@@ -439,8 +439,38 @@
         <h2>¿Quién es responsable de la adaptación al cambio climático?</h2>
         <div class="row ">
 
+            <p>Todo proceso de adaptación, ya sea la planificación de medidas a nivel nacional o el diseño de un proyecto de adaptación local, es más sostenible cuando se basa en un proceso consultivo. </p>
 
+            <p>Una acción de adaptación eficaz reúne de manera significativa a todos los interesados pertinentes, más allá del equipo operacional.</p>
 
+            <p><strong>Nivel Local</strong></p>
+
+            <ul>
+                <li>Alcaldes</li>
+                <li>Lideres de comunidad</li>
+                <li>Organizaciones de base comunitaria</li>
+                <li>Organización de voluntariado</li>
+                <li>Hogares</li>
+                <li>Mipymes</li>
+            </ul>
+            <p><strong>Nivel Sub Nacional</strong></p>
+            <ul>
+                <li>Gobierno Regional</li>
+                <li>Entidades del sector privado de alcance regional</li>
+                <li>Autoridades de distrito</li>
+                <li>ONG con oficinas regionales</li>
+            </ul>
+
+            <p><strong>Nivel Nacional</strong></p>
+            <ul>
+                <li>Organizaciones internacionales de ayuda y desarrollo</li>
+                <li>Instituciones académicas nacionales</li>
+                <li>Ministerio del medio ambiente</li>
+                <li>Entidades del sector privado de alcance nacional</li>
+                <li>ONG internacional y nacional</li>
+
+            </ul>
+            <p>En la práctica los grupos de interesados pueden participar en otros niveles, así como en múltiples procesos de adaptación (por ejemplo, a nivel local y nacional).</p>
 
 
         </div>
