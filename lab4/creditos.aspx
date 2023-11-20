@@ -112,12 +112,7 @@
                   <td>Martínez Hernández</td>
                   <td>Técnico en Sistemas de Computacion</td>
                 </tr>
-                <tr>
-                  <th scope="row">3</th>
-                  <td>Larry</td>
-                  <td>Bird</td>
-                  <td>twitter</td>
-                </tr>
+
                 <tr>
                     <th scope="row">PS100114</th>
                     <td>José Mauricio</td>
